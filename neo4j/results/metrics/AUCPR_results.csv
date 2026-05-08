@@ -1,0 +1,10 @@
+| Experiment             | Test AUCPR  | 
+| ---------------------- | ----------- | 
+| Degree Only            |  0.3230     |
+| Degree + AvgRating     |  0.3230     |
+| Structural + Embedding |  0.3230     |
+| Embeddings Only        |  0.8068     |
+
+//random forest:
+| Embeddings Only        |  0.901      |
+| Traditional ML         |  0.6828     |
